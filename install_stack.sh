@@ -41,4 +41,4 @@ pip install scipy
 
 #-----------------------------------------------------
 # install TensorFlow
-pip install https://github.com/samjabrahams/tensorflow-on-raspberry-pi/raw/master/bin/tensorflow-0.7.1-cp27-none-linux_armv7l.whl
+pip2 install https://github.com/samjabrahams/tensorflow-on-raspberry-pi/raw/master/bin/tensorflow-0.7.1-cp27-none-linux_armv7l.whl
